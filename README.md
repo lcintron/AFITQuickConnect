@@ -5,8 +5,9 @@ Windows tool that automatically accepts the terms and conditions of using the pu
   * Can be set to run on startup.
   * Force connections (Available through context menu on taskbar).
 ## Download
- * [AFIT QuickConnect v1.0 Beta x86 (Windows Only)](https://github.com/lcintron/AFITQuickConnect/raw/master/x86/AFITQuickConnect.exe)
- * [AFIT QuickConnect v1.0 Beta x64 (Windows Only)](https://github.com/lcintron/AFITQuickConnect/raw/master/x64/AFITQuickConnect.exe)
+To install, download the application from the link below, extract and run setup.exe.
+ * [AFIT QuickConnect v1.0 Beta x86/x64 (Windows Only)](https://github.com/lcintron/AFITQuickConnect/raw/master/Releases/AFITQuickConnect.zip)
+
 ## Dependencies
  * [NotifyIcon for WPF](hardcoded.net)
 ## Disclaimer
