@@ -1,12 +1,15 @@
 # AFIT QuickConnect
 Windows tool that automatically accepts the terms and conditions of using the public WiFi (AFITCIS) at AFIT, granting users immediate access to the internet without having to access and re-confirm reading the terms and conditions of usage of the network.
 ## Features
-  * Automatically triggered when connected to AFITCIS wireless network.
+  * Automatically triggered when connected to AFITCIS or AFITCIS-G wireless networks.
   * Can be set to run on startup.
   * Force connections (Available through context menu on taskbar).
+## Change Log
+  * [Jul 2018] Implemented connection to AFITCIS-G
+  
 ## Download
 To install, download the application from the link below, extract and run setup.exe.
- * [AFIT QuickConnect v1.0 Beta x86/x64 (Windows Only)](https://github.com/lcintron/AFITQuickConnect/raw/master/Releases/AFITQuickConnect.zip)
+ * [AFIT QuickConnect v1.5 Beta x86/x64 (Windows Only)](https://github.com/lcintron/AFITQuickConnect/raw/master/Releases/AFITQuickConnectv1.5.zip)
 
 ## Dependencies
  * [NotifyIcon for WPF](hardcoded.net)
