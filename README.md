@@ -1,6 +1,7 @@
 # AFIT QuickConnect
 Windows tool that automatically accepts the terms and conditions of using the public WiFi (AFITCIS) at AFIT, granting users immediate access to the internet without having to access and re-confirm reading the terms and conditions of usage of the network.
 ## Features
+  * Bypass Captive Portal
   * Automatically triggered when connected to AFITCIS or AFITCIS-G wireless networks.
   * Can be set to run on startup.
   * Force connections (Available through context menu on taskbar).
